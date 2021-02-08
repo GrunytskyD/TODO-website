@@ -1,0 +1,38 @@
+C:\Users\Димка\source\repos\TODO website\TODO website\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Димка\source\repos\TODO website\TODO website\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Димка\source\repos\TODO website\TODO website\bin\Debug\netcoreapp3.1\TODO website.exe
+C:\Users\Димка\source\repos\TODO website\TODO website\bin\Debug\netcoreapp3.1\TODO website.deps.json
+C:\Users\Димка\source\repos\TODO website\TODO website\bin\Debug\netcoreapp3.1\TODO website.runtimeconfig.json
+C:\Users\Димка\source\repos\TODO website\TODO website\bin\Debug\netcoreapp3.1\TODO website.runtimeconfig.dev.json
+C:\Users\Димка\source\repos\TODO website\TODO website\bin\Debug\netcoreapp3.1\TODO website.dll
+C:\Users\Димка\source\repos\TODO website\TODO website\bin\Debug\netcoreapp3.1\TODO website.pdb
+C:\Users\Димка\source\repos\TODO website\TODO website\bin\Debug\netcoreapp3.1\TODO website.Views.dll
+C:\Users\Димка\source\repos\TODO website\TODO website\bin\Debug\netcoreapp3.1\TODO website.Views.pdb
+C:\Users\Димка\source\repos\TODO website\TODO website\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\Димка\source\repos\TODO website\TODO website\obj\Debug\netcoreapp3.1\TODO website.csprojAssemblyReference.cache
+C:\Users\Димка\source\repos\TODO website\TODO website\obj\Debug\netcoreapp3.1\TODO website.AssemblyInfoInputs.cache
+C:\Users\Димка\source\repos\TODO website\TODO website\obj\Debug\netcoreapp3.1\TODO website.AssemblyInfo.cs
+C:\Users\Димка\source\repos\TODO website\TODO website\obj\Debug\netcoreapp3.1\TODO website.csproj.CoreCompileInputs.cache
+C:\Users\Димка\source\repos\TODO website\TODO website\obj\Debug\netcoreapp3.1\TODO website.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Димка\source\repos\TODO website\TODO website\obj\Debug\netcoreapp3.1\TODO website.RazorAssemblyInfo.cache
+C:\Users\Димка\source\repos\TODO website\TODO website\obj\Debug\netcoreapp3.1\TODO website.RazorAssemblyInfo.cs
+C:\Users\Димка\source\repos\TODO website\TODO website\obj\Debug\netcoreapp3.1\staticwebassets\TODO website.StaticWebAssets.Manifest.cache
+C:\Users\Димка\source\repos\TODO website\TODO website\obj\Debug\netcoreapp3.1\staticwebassets\TODO website.StaticWebAssets.xml
+C:\Users\Димка\source\repos\TODO website\TODO website\obj\Debug\netcoreapp3.1\scopedcss\bundle\TODO website.styles.css
+C:\Users\Димка\source\repos\TODO website\TODO website\obj\Debug\netcoreapp3.1\TODO website.TagHelpers.input.cache
+C:\Users\Димка\source\repos\TODO website\TODO website\obj\Debug\netcoreapp3.1\TODO website.TagHelpers.output.cache
+C:\Users\Димка\source\repos\TODO website\TODO website\obj\Debug\netcoreapp3.1\TODO website.RazorCoreGenerate.cache
+C:\Users\Димка\source\repos\TODO website\TODO website\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Димка\source\repos\TODO website\TODO website\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Димка\source\repos\TODO website\TODO website\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Димка\source\repos\TODO website\TODO website\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Димка\source\repos\TODO website\TODO website\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Димка\source\repos\TODO website\TODO website\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Димка\source\repos\TODO website\TODO website\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Димка\source\repos\TODO website\TODO website\obj\Debug\netcoreapp3.1\TODO website.RazorTargetAssemblyInfo.cache
+C:\Users\Димка\source\repos\TODO website\TODO website\obj\Debug\netcoreapp3.1\TODO website.RazorTargetAssemblyInfo.cs
+C:\Users\Димка\source\repos\TODO website\TODO website\obj\Debug\netcoreapp3.1\TODO website.Views.pdb
+C:\Users\Димка\source\repos\TODO website\TODO website\obj\Debug\netcoreapp3.1\TODO website.csproj.CopyComplete
+C:\Users\Димка\source\repos\TODO website\TODO website\obj\Debug\netcoreapp3.1\TODO website.dll
+C:\Users\Димка\source\repos\TODO website\TODO website\obj\Debug\netcoreapp3.1\TODO website.pdb
+C:\Users\Димка\source\repos\TODO website\TODO website\obj\Debug\netcoreapp3.1\TODO website.genruntimeconfig.cache
